@@ -1,7 +1,7 @@
 --// 99 Nights in the Forest Script with H4R GUI  //--
 
 -- Load Rayfield UI Library
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local H4R DEV = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 -- Services
 local Players = game:GetService("Players")
@@ -500,3 +500,4 @@ for _, itemName in ipairs(teleportTargets) do
         end
     })
 end 
+
