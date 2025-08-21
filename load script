@@ -1,0 +1,7 @@
+local Games = {
+[79546208627805] = "", -- 99 Nights in the Forest
+  [126509999114328] = "", -- 99 Nights in the Forest 1
+  
+}
+
+return Games
